@@ -1,1 +1,2 @@
 # Prediction-of-Stock-Price-data-Using-Polynomial-Regression-Model
+This project applies Polynomial Regression, Orthogonal Polynomial Regression, and Piecewise Polynomial Regression models to forecast stock prices using NASDAQ market data. The study compares quadratic and cubic models using performance metrics such as RMSE, MAPE, R², and Adjusted R². Results show that piecewise cubic regression provides the best predictive performance for capturing nonlinear stock market trends.
